@@ -1,10 +1,9 @@
 enum class Color {
-  Blue,
   Red,
   Green;
 }
 
 fun main() {
-  val color = Color.Blue
+  val color = Color.Red
   println("Hello, World!")
 }
